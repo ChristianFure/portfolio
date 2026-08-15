@@ -24,15 +24,17 @@
 
 ## Skills & Tools
 
-### Machine Learning & Data Science
+### Healthcare Domain Knowledge
 
-· **`XGBoost`** · **`scikit-learn`** · **`pandas`** · **`SHAP`** · **`MLflow`** · `Predictive Modeling` · `Feature Engineering` · `Model Interpretability` · `Statistical Analysis` · `Data Leakage Diagnosis`
-
+· `HIPAA Compliance` · `Medical Billing & Coding Terminology` · `Data Exchange Standards (HL7, FHIR, OMOP)` · `Quality Metrics`
 
 ### Data Engineering & Cloud
 
 · **`PostgreSQL`** · **`AWS S3`** · **`AWS RDS`** · **`AWS SageMaker`** · `SQL & Database Design` · `ETL Pipeline Design` · `Cloud Infrastructure`
 
+### Machine Learning & Data Science
+
+· **`XGBoost`** · **`scikit-learn`** · **`pandas`** · **`SHAP`** · **`MLflow`** · `Predictive Modeling` · `Feature Engineering` · `Model Interpretability` · `Statistical Analysis` · `Data Leakage Diagnosis`
 
 ### Visualization & Communication
 
