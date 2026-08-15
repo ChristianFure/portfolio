@@ -58,7 +58,7 @@
 ---
 
 ### 🚑 Hospital ER Overview Dashboard
-This interactive hospital ER overview dashboard giving ER and discharge staff at-a-glance visibility of overall hospital flow and demographics. By tracking patient volume, wait times, demographics, it helps administrators optimize staffing and resolve any possible bottlenecks.
+This interactive hospital ER overview dashboard gives ER and discharge staff at-a-glance visibility of overall hospital flow. By tracking patient volume, wait times, and demographics, it helps administrators optimize staffing and resolve any possible bottlenecks.
 
 `Tableau`
 
