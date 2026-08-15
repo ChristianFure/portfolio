@@ -49,7 +49,7 @@
 ## Projects
 
 ### 🏥 30-Day Hospital Readmission Risk Prediction
-&emsp;**Hospital Readmission Risk Prediction** — Built an end-to-end Machine Learning pipeline that predicts 30-day hospital readmission from clinical history available at the time of discharge, enabling coordinated care teams to prioritize the limited resources they have to offer for post-discharge care. Engineered a two-schema warehouse using AWS RDS with PostgreSQL. Benchmarked multiple baseline models before deciding on an XGBoost classification model that would be entirely built in AWS SageMaker, using SHAP for interpretability, AUC-PR optimized for the inherent class imbalance, and a 0.10 probability threshold. The deliverable is two Tableau dashboards (1 executive, 1 technical) and a stakeholder story that translates technical jargon and metrics into actionable business insights.
+&emsp;Built an end-to-end Machine Learning pipeline that predicts 30-day hospital readmission from clinical history available at the time of discharge, enabling coordinated care teams to prioritize the limited resources they have to offer for post-discharge care. Engineered a two-schema warehouse using AWS RDS with PostgreSQL. Benchmarked multiple baseline models before deciding on an XGBoost classification model that would be entirely built in AWS SageMaker, using SHAP for interpretability, AUC-PR optimized for the inherent class imbalance, and a 0.10 probability threshold. The deliverable is two Tableau dashboards (1 executive, 1 technical) and a stakeholder story that translates technical jargon and metrics into actionable business insights.
 
 `Python` `XGBoost` `SQL (PostgreSQL) & Database Design` `AWS (S3/RDS/SageMaker)` `MLflow` `SHAP` `Tableau`
 
