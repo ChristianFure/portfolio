@@ -13,7 +13,7 @@
 
 ## About Me
 
-&emsp;I'm a recent Computer Science graduate focused on the healthcare industry and specifically clinical data analytics. I'm building toward a career as a clinical data analyst as most of my portfolio work revolves around turning messy, real-world-shaped clinical data into clean data that can be analyzed efficiently and turned into information drives business decisions.
+&emsp;I'm a recent Computer Science graduate focused on the healthcare industry and specifically clinical data analytics. I'm building toward a career as a clinical data analyst as most of my portfolio work revolves around turning messy, real-world-shaped clinical data into clean data that can be analyzed efficiently and turned into information that drives business decisions.
 
 &emsp;Overall, I have over 6 years of non-professional experience working with data. I have hands-on experience with every single step of the typical data pipeline: data engineering, data science, and data analysis. I am a fast learner who quickly adapts to dynamic environments. My broad range of data experience and my passion for helping people have inspired me to specialize in the healthcare domain.
 
